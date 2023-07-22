@@ -32,10 +32,6 @@ cd sabjispider
 
 3. Execute the spider:
 
-###Screenshot of DB "my_data.sqlite3"
-![DB Browser](https://raw.githubusercontent.com/kiranpantha/MTECHAI-AIAC557/main/db%20browser.png)
-
-
 ```
 scrapy crawl sabjispider
 ```
