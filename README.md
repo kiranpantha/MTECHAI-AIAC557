@@ -1,7 +1,5 @@
 # MTECHAI-AIAC557
-Certainly! Here's the markdown code with proper formatting so that you can easily copy it:
 
-```markdown
 ## Sabji Spider - Web Scraping Tool
 
 This repository contains a Python script that utilizes Scrapy to scrape vegetable prices from the "Kalimati Market" website and saves the data into a SQLite database. The script fetches the data for a specified date range and saves each entry in the `scraped_data` table of the SQLite database.
