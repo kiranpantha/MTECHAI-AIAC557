@@ -10,4 +10,6 @@ from itemadapter import ItemAdapter
 
 class SabjiPipeline:
     def process_item(self, item, spider):
+        print('OKOK')
+        print(item)
         return item
