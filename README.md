@@ -62,3 +62,6 @@ The scraped data is stored in the `my_data.sqlite3` SQLite database. The databas
 - `averageAmount`: Average price of the vegetable
 
 The `save_to_database` method is responsible for inserting the scraped data into the `scraped_data` table.
+
+###Screenshot of DB "my_data.sqlite3"
+![Image Description](db browser.png)
