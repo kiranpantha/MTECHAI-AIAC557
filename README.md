@@ -56,6 +56,9 @@ The scraped data is stored in the `my_data.sqlite3` SQLite database. The databas
 - `maximumAmount`: Maximum price of the vegetable
 - `averageAmount`: Average price of the vegetable
 
+### Github Actions YML file
+  .github/workflows/scrap.yml
+
 The `save_to_database` method is responsible for inserting the scraped data into the `scraped_data` table.
 
 ### SQLITE SCREENSHOT
