@@ -1,3 +1,2 @@
 scrapy
 pandas
-python3-venv
