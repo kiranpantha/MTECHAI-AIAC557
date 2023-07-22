@@ -59,4 +59,4 @@ The scraped data is stored in the `my_data.sqlite3` SQLite database. The databas
 The `save_to_database` method is responsible for inserting the scraped data into the `scraped_data` table.
 
 ###SQLITE SCREENSHOT
-![Screenshot](db browser.png)
+![Screenshot]([db browser.png](https://github.com/kiranpantha/MTECHAI-AIAC557/blob/c5e592d296a0f2b71eebda84420369d4054f8d1a/db%20browser.png)https://github.com/kiranpantha/MTECHAI-AIAC557/blob/c5e592d296a0f2b71eebda84420369d4054f8d1a/db%20browser.png)
