@@ -22,7 +22,7 @@ pip install scrapy pandas
 
 ```
 git clone https://github.com/kiranpantha/MTECHAI-AIAC557.git
-cd sabjispider
+cd sabji
 ```
 
 3. Execute the spider:
